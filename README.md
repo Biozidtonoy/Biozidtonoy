@@ -1,5 +1,5 @@
 # 💫 About Me:
-"Hello, World !" . I am Tonoy , a Frontend Developer.
+"Hello, World !" . I am Biozid Tonoy , a Frontend Developer.
 
 
 ## 🌐 Socials:
